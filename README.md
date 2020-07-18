@@ -1,2 +1,2 @@
-# personalpage
-Pagina personal
+# Pagina personal
+Infrmacion personal y de contacto
