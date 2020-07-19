@@ -82,6 +82,11 @@ h6 {
     #fotoinicio {
         width: 75%;
     }
+    .icono {
+        margin-top: 2%;
+        margin-bottom: 2%;
+        display: inline-block;
+    }
     .cuadro {
         width: 8%;
     }
@@ -91,7 +96,7 @@ h6 {
     h6 {
         margin-top: 1%;
         display: block;
-        font-size: 100%;
+        font-size: 85%;
     }
 }
 
