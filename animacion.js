@@ -8,7 +8,7 @@ async function transicion() {
         "./images/anima/4.png",
     ];
     var a = 0
-    await sleep(2000);
+    await sleep(5000);
     while (a < 20) {
         for (i = 0; i < datos.length; i++) {
             cuadro.innerHTML = "<img class = 'img-fluid mx-auto d-block' src =" + datos[i] + ">";
