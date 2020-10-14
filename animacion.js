@@ -38,4 +38,4 @@ function edad() {
     document.getElementById('edad').innerHTML = edad + ' years old'
 }
 edad();
-//transicion();
+transicion();
