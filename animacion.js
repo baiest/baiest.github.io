@@ -26,15 +26,19 @@ async function transicion() {
 
 function edad() {
     const birth = new Date()
-    var edad = birth.getFullYear() - 2000
-    if ((birth.getMonth() + 1) - 10 >= 0) {
-        if ((birth.getDate() - 12) < 0) {
+    const year = 2000,
+        month = 4,
+        day = 22
+    var edad = birth.getFullYear() - year
+    if (birth.getMonth() - (month - 1) >= 0) {
+        if (birth.getDate() - day < 0 && birth.getMonth() - (month - 1) === 0) {
             edad = edad - 1
         }
     } else {
         edad = edad - 1
     }
-
+    console.log(birth.getDate() - 22)
+    console.log(edad)
     document.getElementById('edad').innerHTML = edad + ' years old'
 }
 edad();
