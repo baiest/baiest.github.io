@@ -10,8 +10,10 @@ export default class Main extends Component {
     render() {
         return(
             <div className="container">
-                <div className="main__imagen--borde"></div>
-                <img className="main__container--imagen" src={foto} alt="Foto de Juan"/>
+                <section className="main__container--imagen">
+                    <div className="main__imagen--borde"></div>
+                    <img className="main__imagen" src={foto} alt="Foto de Juan"/>
+                </section>
                 <div className="main__container--social">
                     <a href="https://www.facebook.com/jbaiest/"><img src={facebook} alt="Logo facebook"/></a>
                     <a href="https://www.instagram.com/jbaiest/"><img src={instagram} alt="Logo facebook"/></a>
