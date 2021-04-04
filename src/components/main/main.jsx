@@ -1,27 +1,26 @@
 import {Component} from 'react';
 import './main.css';
-import foto from'./logo512.png';
+import foto from'../assets/spider minimun.png';
+import facebook from'../assets/facebook.png';
+import twitter from'../assets/twitter.png';
+import instagram from'../assets/instagram.png';
+import github from'../assets/github.png';
 
 export default class Main extends Component {
     render() {
         return(
             <div className="container">
-                <section className="main__container">
-                    <img className="main__container--imagen" src={foto} alt="Foto de Juan"/>
-                    <div className="main__container--social">
-                        <div>
-                            <a href="">A</a>
-                            <a href="">B</a>
-                        </div>
-                        <div>
-                            <a href="">C</a>
-                            <a href="">D</a>
-                        </div>
-                    </div>
-                </section>
+                <div className="main__imagen--borde"></div>
+                <img className="main__container--imagen" src={foto} alt="Foto de Juan"/>
+                <div className="main__container--social">
+                    <a href="https://www.facebook.com/jbaiest/"><img src={facebook} alt="Logo facebook"/></a>
+                    <a href="https://www.instagram.com/jbaiest/"><img src={instagram} alt="Logo facebook"/></a>
+                    <a href="https://www.twitter.com/jBaiest"><img src={twitter} alt="Logo facebook"/></a>
+                    <a href="https://www.github.com/baiest"><img src={github} alt="Logo facebook"/></a>
+                </div>
                 <h1 className="main__nombre">Juan Carlos</h1>
                 <h2 className="main__apellido">Ballesteros Romero</h2>
-                <p>Hola tengo 20 años</p>
+                <h3>Hola, ☺ tengo 20 años</h3>
                 <p>Me gustan los videojuegos y programar</p>
                 <a className="main__boton--mas" href="/">Más sobre mi <span>↓</span></a>
             </div>
