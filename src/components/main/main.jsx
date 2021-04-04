@@ -20,7 +20,7 @@ export default class Main extends Component {
                 </div>
                 <h1 className="main__nombre">Juan Carlos</h1>
                 <h2 className="main__apellido">Ballesteros Romero</h2>
-                <h3>Hola, ☺ tengo 20 años</h3>
+                <h3>Hola, tengo 20 años ☺</h3>
                 <p>Me gustan los videojuegos y programar</p>
                 <a className="main__boton--mas" href="/">Más sobre mi <span>↓</span></a>
             </div>
