@@ -1,0 +1,29 @@
+.container__formacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formacion__titulo {
+    text-align: center;
+    font-size: 45px;
+}
+
+.formacion__caja {
+    width: 100%;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.formacion__parrafo {
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: -20px;
+    font-weight: normal;
+    font-style: italic;
+}

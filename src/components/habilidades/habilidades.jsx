@@ -1,11 +1,12 @@
 import {Component} from 'react';
 import './habilidades.css';
+import Tarjeta from '../tarjeta/tarjeta'
 
-import js from './iconos/javascript.png'
-import cmas from './iconos/c++.png'
-import sql from './iconos/sql.png'
-import python from './iconos/python.png'
-import java from './iconos/java.png'
+import js from '../iconos/javascript.png'
+import cmas from '../iconos/c++.png'
+import sql from '../iconos/sql.png'
+import python from '../iconos/python.png'
+import java from '../iconos/java.png'
 
 export default class Habilidades extends Component{
     render(){
@@ -13,36 +14,11 @@ export default class Habilidades extends Component{
             <section id="habilidades" className="container__habilidades">
                 <h2 className="habilidades__titulo">Mis Habilidades</h2>
                 <div className="habilidades__caja">   
-                    <div className="imagen">
-                        <img src={python} alt="Logo python"/>
-                        <div className="habilidades__progress--container">
-                            <div className="habilidades__progress" style={{ width: '50%'}}>50%</div>
-                        </div>
-                    </div>   
-                    <div className="imagen">
-                        <img src={java} alt="Logo python"/>
-                        <div className="habilidades__progress--container">
-                            <div className="habilidades__progress" style={{ width: '50%'}}>50%</div>
-                        </div>
-                    </div>   
-                    <div className="imagen">
-                        <img src={js} alt="Logo javascript"/>
-                        <div className="habilidades__progress--container">
-                            <div className="habilidades__progress" style={{ width: '50%'}}>50%</div>
-                        </div>
-                    </div>   
-                    <div className="imagen">
-                        <img src={cmas} alt="Logo c++"/>
-                        <div className="habilidades__progress--container">
-                            <div className="habilidades__progress" style={{ width: '50%'}}>50%</div>
-                        </div>
-                    </div>   
-                    <div className="imagen">
-                        <img src={sql} alt="Logo postgres"/>
-                        <div className="habilidades__progress--container">
-                            <div className="habilidades__progress" style={{ width: '50%'}}>50%</div>
-                        </div>
-                    </div>   
+                    <Tarjeta imagen={python} subTitle="Python" alt="Logo python" progress="70"/>
+                    <Tarjeta imagen={java} subTitle="Java" alt="Logo java" progress="50"/>
+                    <Tarjeta imagen={js} subTitle="JavaScript" alt="Logo javascript" progress="60"/>
+                    <Tarjeta imagen={cmas} subTitle="C++" alt="Logo c++" progress="50"/>
+                    <Tarjeta imagen={sql} subTitle="SQL" alt="Logo sql" progress="50"/>
                 </div>
             </section>
         );
