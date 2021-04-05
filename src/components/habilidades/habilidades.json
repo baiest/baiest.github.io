@@ -1,0 +1,33 @@
+{
+    "data": [{
+            "nombre_imagen": "python.png",
+            "subTitle": "Python",
+            "alt": "Logo python",
+            "progress": "70"
+        },
+        {
+            "nombre_imagen": "java.png",
+            "subTitle": "Java",
+            "alt": "Logo java",
+            "progress": "50"
+        },
+        {
+            "nombre_imagen": "javascript.png",
+            "subTitle": "JavaScript",
+            "alt": "Logo javascript",
+            "progress": "60"
+        },
+        {
+            "nombre_imagen": "c++.png",
+            "subTitle": "C++",
+            "alt": "Logo c++",
+            "progress": "50"
+        },
+        {
+            "nombre_imagen": "sql.png",
+            "subTitle": "SQL",
+            "alt": "Logo sql",
+            "progress": "50"
+        }
+    ]
+}

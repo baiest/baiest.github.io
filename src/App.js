@@ -10,8 +10,8 @@ function App() {
       <div className='App'>
         <Main/>
         <Habilidades/>
-        <Formacion/>
         <Proyectos/>
+        <Formacion/>
         <Footer/>
       </div>
     );
