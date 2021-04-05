@@ -9,7 +9,7 @@ import github from'../assets/github.png';
 export default class Main extends Component {
     render() {
         return(
-            <div className="container">
+            <section id="main" className="container">
                 <section className="main__container--imagen">
                     <div className="main__imagen--borde"></div>
                     <img className="main__imagen" src={foto} alt="Foto de Juan"/>
@@ -23,9 +23,9 @@ export default class Main extends Component {
                 <h1 className="main__nombre">Juan Carlos</h1>
                 <h2 className="main__apellido">Ballesteros Romero</h2>
                 <h3>Hola, tengo 20 años ☺</h3>
-                <p>Me gustan los videojuegos y programar</p>
+                <p className="description">Me gustan los videojuegos y programar</p>
                 <a className="main__boton--mas" href="/">Más sobre mi <span>↓</span></a>
-            </div>
+            </section>
         );
     }
 }
