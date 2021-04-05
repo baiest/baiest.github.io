@@ -2,42 +2,18 @@
     "data": [{
             "nombre_imagen": "easystem.jpg",
             "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
+            "texto": "Realizé esta pagina como pasatiempo, basandome en la empresa en la que trabaja una amiga, fue realizada con React"
         },
         {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
+            "nombre_imagen": "stay-at-home.jpg",
+            "subtitulo": "Aplicacion Stay at home",
+            "texto": "Como proyecto para la materia Desarrollo de software II, mi grupo y yo realizamos una aplicacion con la cual los doctores podian tener mas cercania con sus pacientes diagnosticados con Covid-19. Esta fue realizada con NodeJS y Vue"
         },
         {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
-        },
-        {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
-        },
-        {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
-        },
-        {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
-        },
-        {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
-        },
-        {
-            "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Parrafo de ejemplo para llerParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacioParrafo de ejemplo para llenar espacio"
+            "nombre_imagen": "torneo-amongo.png",
+            "subtitulo": "Pagina de puntajes torneo Among Us",
+            "texto": "Unos amigos querian realizar un pequeño torneo de among us, y decidí hacer una pequeña pagina que se conectaba a una hoja de calculo de Google, para mostrar los puntos y las posiciones, la realicé con Python usando Flask"
         }
+
     ]
 }

@@ -20,7 +20,7 @@
     .tarjeta__imagen img {
         max-width: 100%;
         height: auto;
-        border: 1px solid #000;
+        border-bottom: 1px solid #000;
     }
     .tarjeta__imagen h4 {
         text-align: center;
@@ -29,9 +29,9 @@
         margin: 5px 0px;
     }
     .tarjeta__parrafo {
-        width: 100%;
+        width: 90%;
         font-weight: normal;
         font-size: 20px;
-        margin: 5px 10px;
+        margin: 5px 5px;
     }
 }

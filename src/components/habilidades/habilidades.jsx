@@ -8,7 +8,7 @@ export default class Habilidades extends Component{
         return(
             <section id="habilidades" className="container__habilidades">
                 <h2 className="habilidades__titulo">Mis Habilidades</h2>
-                <div className="habilidades__caja">  
+                <div className="habilidades__caja"> 
                     {data.map((img, key) => {
                         let src_imagen;
                         //Revisar si la imagen existe

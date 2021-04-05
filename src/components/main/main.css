@@ -92,34 +92,38 @@
         text-align: left;
         font-size: 25px;
         margin-bottom: 0px;
-        color: #03045e;
+        color: #555;
+        font-weight: bold;
+        text-shadow: 10px 1px 20px#fff;
     }
     .description {
         text-align: right;
         width: 65%;
-        margin-top: -5px;
+        margin-top: 0px;
         margin-right: 30px;
         align-self: flex-end;
         font-size: 25px;
         color: #fff;
         font-style: italic;
+        position: relative;
     }
     @keyframes subi-baja {
         0% {
-            margin-top: 0px;
-        }
-        50% {
             margin-top: 20px;
         }
+        50% {
+            margin-top: 50px;
+        }
         100% {
-            margin-top: 0px;
+            margin-top: 20px;
         }
     }
     .main__boton--mas {
         align-self: center;
         width: 30%;
-        margin-top: -20px;
-        font-size: 30px;
+        font-size: 20px;
+        font-weight: normal;
+        font-style: italic;
         text-align: center;
         display: flex;
         flex-direction: column;
@@ -129,6 +133,8 @@
     }
     .main__boton--mas span {
         font-size: 50px;
+        font-style: normal;
         font-weight: bold;
+        margin-top: -10px;
     }
 }

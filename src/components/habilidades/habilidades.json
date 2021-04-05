@@ -28,6 +28,30 @@
             "subTitle": "SQL",
             "alt": "Logo sql",
             "progress": "50"
+        },
+        {
+            "nombre_imagen": "react.png",
+            "subTitle": "React",
+            "alt": "Logo react",
+            "progress": "50"
+        },
+        {
+            "nombre_imagen": "vue.png",
+            "subTitle": "Vue",
+            "alt": "Logo vue",
+            "progress": "50"
+        },
+        {
+            "nombre_imagen": "html.png",
+            "subTitle": "HTML",
+            "alt": "Logo html",
+            "progress": "60"
+        },
+        {
+            "nombre_imagen": "css.png",
+            "subTitle": "CSS",
+            "alt": "Logo css",
+            "progress": "60"
         }
     ]
 }

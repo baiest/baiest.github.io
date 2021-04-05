@@ -1,9 +1,13 @@
 #footer {
     width: 100%;
     background: #7209B7;
-    display: flex;
-    justify-content: center;
+    display: inline-block;
     color: #fff;
+    text-align: center;
+}
+
+p i {
+    font-weight: normal;
 }
 
 p {
