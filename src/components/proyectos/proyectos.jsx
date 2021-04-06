@@ -13,6 +13,7 @@ export default class Proyectos extends Component{
                     target="_blank" rel="noreferrer">Github</a> 
                     encontraras otros repositorios en los que subo proyectos para practicar,
                 y en los que pruebo nuevas técnologias y lenguajes </p> 
+                
                 {data.map(img => {
                         let src_imagen;
                         //Revisar si la imagen existe
