@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df76abed.chunk.css",
+    "main.js": "/static/js/main.6b9575b5.chunk.js",
+    "main.js.map": "/static/js/main.6b9575b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f23ecec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f23ecec.js.map",
+    "static/js/2.b174b0d8.chunk.js": "/static/js/2.b174b0d8.chunk.js",
+    "static/js/2.b174b0d8.chunk.js.map": "/static/js/2.b174b0d8.chunk.js.map",
+    "static/js/3.7d5f6299.chunk.js": "/static/js/3.7d5f6299.chunk.js",
+    "static/js/3.7d5f6299.chunk.js.map": "/static/js/3.7d5f6299.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.df76abed.chunk.css.map": "/static/css/main.df76abed.chunk.css.map",
+    "static/js/2.b174b0d8.chunk.js.LICENSE.txt": "/static/js/2.b174b0d8.chunk.js.LICENSE.txt",
+    "static/media/camacho.jpg": "/static/media/camacho.97a6de77.jpg",
+    "static/media/css.png": "/static/media/css.5491a3b0.png",
+    "static/media/easystem.jpg": "/static/media/easystem.38f6f350.jpg",
+    "static/media/github.png": "/static/media/github.3a43d37e.png",
+    "static/media/html.png": "/static/media/html.397540de.png",
+    "static/media/instagram.png": "/static/media/instagram.ab2f37fe.png",
+    "static/media/java.png": "/static/media/java.013be91a.png",
+    "static/media/javascript.png": "/static/media/javascript.621f6061.png",
+    "static/media/python.png": "/static/media/python.f7f12e1b.png",
+    "static/media/spider minimun.png": "/static/media/spider minimun.7f21cf8b.png",
+    "static/media/sql.png": "/static/media/sql.9a41e544.png",
+    "static/media/stay-at-home.jpg": "/static/media/stay-at-home.84056759.jpg",
+    "static/media/torneo-amongo.png": "/static/media/torneo-amongo.24bc8746.png",
+    "static/media/twitter.png": "/static/media/twitter.a015d78e.png",
+    "static/media/vue.png": "/static/media/vue.fad25953.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f23ecec.js",
+    "static/js/2.b174b0d8.chunk.js",
+    "static/css/main.df76abed.chunk.css",
+    "static/js/main.6b9575b5.chunk.js"
+  ]
+}
