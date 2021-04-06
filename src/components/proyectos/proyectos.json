@@ -7,7 +7,7 @@
         {
             "nombre_imagen": "stay-at-home.jpg",
             "subtitulo": "Aplicacion Stay at home",
-            "texto": "Como proyecto para la materia Desarrollo de software II, mi grupo y yo realizamos una aplicacion con la cual los doctores podian tener mas cercania con sus pacientes diagnosticados con Covid-19. Esta fue realizada con NodeJS y Vue"
+            "texto": "Como proyecto para la materia Desarrollo de software II, mi grupo y yo realizamos una aplicacion con la cual los doctores podian tener mas cercania con sus pacientes diagnosticados con Covid-19. Se realizó con NodeJS y Vue"
         },
         {
             "nombre_imagen": "torneo-amongo.png",
