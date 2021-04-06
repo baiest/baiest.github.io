@@ -1,7 +1,8 @@
-@media (min-width: 800px) {
+@media (min-width: 320px) {
     .App {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
+        justify-content: center;
     }
 }
