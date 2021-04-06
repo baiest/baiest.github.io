@@ -1,18 +1,18 @@
 {
     "data": [{
             "nombre_imagen": "easystem.jpg",
-            "subtitulo": "Pagina Easystem",
-            "texto": "Realizé esta pagina como pasatiempo, basandome en la empresa en la que trabaja una amiga, fue realizada con React"
+            "subtitulo": "Página Easystem",
+            "texto": "Realicé esta página como pasatiempo, basándome en la empresa en la que trabaja una amiga, fue realizada con React"
         },
         {
             "nombre_imagen": "stay-at-home.jpg",
-            "subtitulo": "Aplicacion Stay at home",
-            "texto": "Como proyecto para la materia Desarrollo de software II, mi grupo y yo realizamos una aplicacion con la cual los doctores podian tener mas cercania con sus pacientes diagnosticados con Covid-19. Se realizó con NodeJS y Vue"
+            "subtitulo": "Aplicación Stay at home",
+            "texto": "Como proyecto para la materia Desarrollo de software II, mi grupo y yo realizamos una aplicación con la cual los doctores podían tener más cercanía con sus pacientes diagnosticados con Covid-19. Se realizó con NodeJS y Vue"
         },
         {
             "nombre_imagen": "torneo-amongo.png",
-            "subtitulo": "Pagina de puntajes torneo Among Us",
-            "texto": "Unos amigos querian realizar un pequeño torneo de among us, y decidí hacer una pequeña pagina que se conectaba a una hoja de calculo de Google, para mostrar los puntos y las posiciones, la realicé con Python usando Flask"
+            "subtitulo": "Página de puntajes torneo Among Us",
+            "texto": "Unos amigos querían realizar un pequeño torneo de among us, y decidí hacer una pequeña página que se conectaba a una hoja de cálculo de Google, para mostrar los puntos y las posiciones, la realicé con Python usando Flask"
         }
 
     ]

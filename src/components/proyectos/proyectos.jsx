@@ -12,7 +12,7 @@ export default class Proyectos extends Component{
                     En mi <a href="https://github.com/baiest" 
                     target="_blank" rel="noreferrer">Github</a> encontrarás otros repositorios 
                     en los que subo proyectos para practicar, 
-                    pruebo nuevas técnologias y lenguajes </p> 
+                    pruebo nuevas tecnologías y lenguajes </p> 
                 
                 <div className="container__proyectos--scroll">
                     {data.map((img, key) => {
