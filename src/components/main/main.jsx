@@ -30,10 +30,10 @@ export default class Main extends Component {
                     <img className="main__imagen" src={foto} alt="Foto de Juan"/>
                 </section>
                 <div className="main__container--social">
-                    <a href="https://www.facebook.com/jbaiest/" target="_blank"><img src={facebook} alt="Logo facebook"/></a>
-                    <a href="https://www.instagram.com/jbaiest/" target="_blank"><img src={instagram} alt="Logo facebook"/></a>
-                    <a href="https://www.twitter.com/jBaiest" target="_blank"><img src={twitter} alt="Logo facebook"/></a>
-                    <a href="https://www.github.com/baiest" target="_blank"><img src={github} alt="Logo facebook"/></a>
+                    <a href="https://www.facebook.com/jbaiest/" target="_blank" rel="noreferrer"><img src={facebook} alt="Logo facebook"/></a>
+                    <a href="https://www.instagram.com/jbaiest/" target="_blank" rel="noreferrer"><img src={instagram} alt="Logo facebook"/></a>
+                    <a href="https://www.twitter.com/jBaiest" target="_blank" rel="noreferrer"><img src={twitter} alt="Logo facebook"/></a>
+                    <a href="https://www.github.com/baiest" target="_blank" rel="noreferrer"><img src={github} alt="Logo facebook"/></a>
                 </div>
                 <h1 className="main__nombre">Juan Carlos</h1>
                 <h2 className="main__apellido">Ballesteros Romero</h2>

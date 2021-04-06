@@ -21,3 +21,10 @@
         justify-content: center;
     }
 }
+
+@media (min-width: 800px) {
+    .container__habilidades {
+        width: 40%;
+        margin: 0 0;
+    }
+}

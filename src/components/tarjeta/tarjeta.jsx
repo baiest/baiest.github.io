@@ -14,7 +14,8 @@ export default class Tarjeta extends Component{
                 <small>{subTitle}</small>
                 {progress ? 
                 <div className="habilidades__progress--container">
-                    <div className="habilidades__progress" style={{ width: `${progress}%`}}>{progress}%</div>
+                    <div className="habilidades__progress" 
+                    style={{ width: `${progress}%`}}>{progress}%</div>
                 </div> : ''}                
             </div>
         );
