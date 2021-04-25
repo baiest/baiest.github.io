@@ -1,5 +1,10 @@
 {
     "data": [{
+            "nombre_imagen": "snake-python.png",
+            "subtitulo": "Juego Snake",
+            "texto": "Utilizando la libreria de pygame y el modelo vista controlador para practicar el lenguaje"
+        },
+        {
             "nombre_imagen": "easystem.jpg",
             "subtitulo": "Página Easystem",
             "texto": "Realicé esta página como pasatiempo, basándome en la empresa en la que trabaja una amiga, fue realizada con React"
