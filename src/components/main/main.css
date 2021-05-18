@@ -70,8 +70,8 @@
         margin-left: 20px;
         margin-bottom: 10px;
         font-size: 45px;
-        text-shadow: 5px 5px 15px#000;
-        color: #fff;
+        text-shadow: 5px 5px 15px#fff;
+        color: rgb(3, 6, 59);
     }
     .main__apellido {
         width: 60%;
