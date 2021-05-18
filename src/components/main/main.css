@@ -38,7 +38,6 @@
         animation: girar infinite 4s;
     }
     .main__imagen {
-        background-color: black;
         width: 150px;
         height: 150px;
         border-radius: 100%;
@@ -80,8 +79,8 @@
         margin-left: 20px;
         margin-bottom: 0px;
         font-size: 45px;
-        text-shadow: 5px 5px 15px#000;
-        color: #fff;
+        text-shadow: 5px 5px 15px#fff;
+        color: rgb(3, 6, 59);
     }
     h3 {
         font-weight: normal;
