@@ -4,7 +4,7 @@
         width: 100%;
         display: flex;
         flex-direction: column;
-        background-image: radial-gradient(at top left, #ffb600 55%, #0077b6 50%);
+        background-image: radial-gradient(at top left, #00ffff9e 55%, #0040ffa1 50%);
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         box-shadow: 0px 20px 30px#000;
@@ -30,7 +30,7 @@
         }
     }
     .main__imagen--borde {
-        background: linear-gradient(to top, #ffb600 90%, rgb(255, 255, 255) 80%);
+        background: linear-gradient(to top, #00ffff9e 90%, rgb(255, 255, 255) 80%);
         width: 180px;
         height: 180px;
         border-radius: 100%;
@@ -46,7 +46,7 @@
         object-fit: cover;
         margin: 5px;
         position: absolute;
-        border: #ffb600 10px solid;
+        border: #00ffff9e 10px solid;
     }
     .main__container--social {
         display: flex;
@@ -149,7 +149,7 @@
     .container {
         height: 660px;
         border-radius: 0;
-        background-image: radial-gradient(at top left, #ffb600 40%, #0077b6 20%);
+        background-image: radial-gradient(at top left, #00ffff9e 40%, #0040ffa1 20%);
     }
     .main__container--imagen {
         margin-top: 2%;
